@@ -4,4 +4,4 @@ __pycache__/
 *.ipynb
 screenshot*/
 *.json
-.DS_Store
+*.DS_Store
