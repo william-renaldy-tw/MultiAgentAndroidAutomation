@@ -1,0 +1,9 @@
+adbutils
+Appium-Python-Client
+streamlit
+selenium
+requests
+python-dotenv
+PyYAML
+google-genai
+lxml
